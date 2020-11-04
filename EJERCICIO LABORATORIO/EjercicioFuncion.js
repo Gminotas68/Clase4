@@ -24,4 +24,4 @@ calificacion = (n1+n2+n3)/3*0.55 + examen*0.30 + trabajo*0.15;
 //Imprimir 
 console.log('La calificaciÃ³n final es:' + calificacion);
 alert('La calificaciÃ³n final es:' + calificacion);
-document.write ('La calificaciÃ³n final es:' + calificacion);
+document.write ('La calificacionn final es:' + calificacion);
